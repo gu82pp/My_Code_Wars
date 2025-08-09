@@ -1,5 +1,7 @@
 # README
 
+![Codewars Profile Badges](https://www.codewars.com/users/gu82pp/badges/large)
+
 1. [Categorize New Member](7kyu/1._Categorize_New_Member.js)
 2. [Array.diff](6kyu/2._Array.diff.js)
 3. [Highest and Lowest](7kyu/3._Highest_and_Lowest.js)
