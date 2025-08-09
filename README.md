@@ -10,3 +10,4 @@
 8. [Count characters in your string](6kyu/8._Count_characters_in_your_string.js)
 9. [Human Readable Time](5kyu/9._Human_Readable_Time.js)
 10. [Maximum subarray sum](5kyu/10._Maximum_subarray_sum.js)
+11. [Take a Ten Minutes Walk](6kyu/11._Take_a_Ten_Minutes_Walk.js)
