@@ -14,3 +14,4 @@
 10. [Maximum subarray sum](5kyu/10._Maximum_subarray_sum.js)
 11. [Take a Ten Minutes Walk](6kyu/11._Take_a_Ten_Minutes_Walk.js)
 12. [Tic-Tac-Toe Checker](5kyu/12._Tic-Tac-Toe_Checker.js)
+12. [PaginationHelper](5kyu/13._PaginationHelper.js)
