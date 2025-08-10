@@ -16,3 +16,4 @@
 12. [Tic-Tac-Toe Checker](5kyu/12._Tic-Tac-Toe_Checker.js)
 13. [PaginationHelper](5kyu/13._PaginationHelper.js)
 14. [Mean Square Error](5kyu/14._Mean_Square_Error.js)
+15. [Sum of Intervals](4kyu/15._Sum_of_Intervals.js)
