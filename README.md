@@ -18,3 +18,4 @@
 14. [Mean Square Error](5kyu/14._Mean_Square_Error.js)
 15. [Sum of Intervals](4kyu/15._Sum_of_Intervals.js)
 16. [A Chain adding function](5kyu/16._A_Chain_adding_function.js)
+17. [Moving Zeros To The End](5kyu/17._Moving_Zeros_To_The_End.js)
