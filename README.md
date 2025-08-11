@@ -17,3 +17,4 @@
 13. [PaginationHelper](5kyu/13._PaginationHelper.js)
 14. [Mean Square Error](5kyu/14._Mean_Square_Error.js)
 15. [Sum of Intervals](4kyu/15._Sum_of_Intervals.js)
+16. [A Chain adding function](5kyu/16._A_Chain_adding_function.js)

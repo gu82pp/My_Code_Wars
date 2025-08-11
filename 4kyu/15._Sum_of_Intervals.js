@@ -39,7 +39,7 @@ function sumIntervals(intervals) {
     return total;
 }
 
-console.log(sumIntervals([[1, 5], [6, 10]])); // 9
+console.log(sumIntervals([[1, 5], [6, 10]])); // 8
 console.log(sumIntervals([
    [1, 4],
    [7, 10],
