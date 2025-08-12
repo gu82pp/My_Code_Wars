@@ -19,3 +19,4 @@
 15. [Sum of Intervals](4kyu/15._Sum_of_Intervals.js)
 16. [A Chain adding function](5kyu/16._A_Chain_adding_function.js)
 17. [Moving Zeros To The End](5kyu/17._Moving_Zeros_To_The_End.js)
+18. [Pyramid Slide Down](4kyu/18._Pyramid_Slide_Down.js)
