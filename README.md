@@ -21,3 +21,4 @@
 17. [Moving Zeros To The End](5kyu/17._Moving_Zeros_To_The_End.js)
 18. [Pyramid Slide Down](4kyu/18._Pyramid_Slide_Down.js)
 19. [All Balanced Parentheses](4kyu/19._All_Balanced_Parentheses.js)
+20. [Multiplying numbers as strings](4kyu/20._Multiplying_numbers_as_strings.js)
