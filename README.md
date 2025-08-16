@@ -23,3 +23,4 @@
 19. [All Balanced Parentheses](4kyu/19._All_Balanced_Parentheses.js)
 20. [Multiplying numbers as strings](4kyu/20._Multiplying_numbers_as_strings.js)
 21. [Human readable duration format](4kyu/21._Human_readable_duration_format.js)
+22. [Range Extraction](4kyu/22._Range_Extraction.js)
