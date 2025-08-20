@@ -26,3 +26,4 @@
 22. [Range Extraction](4kyu/22._Range_Extraction.js)
 23. [So Many Permutations](4kyu/23._So_Many_Permutations.js)
 24. [The observed PIN](4kyu/24._The_observed_PIN.js)
+25. [Objectify a URL Query String](4kyu/25._Objectify_a_URL_Query_String.js)
