@@ -28,3 +28,4 @@
 24. [The observed PIN](4kyu/24._The_observed_PIN.js)
 25. [Objectify a URL Query String](4kyu/25._Objectify_a_URL_Query_String.js)
 26. [Nesting Structure Comparison](4kyu/26._Nesting_Structure_Comparison.js)
+27. [Connect Four](4kyu/27._Connect_Four.js)
